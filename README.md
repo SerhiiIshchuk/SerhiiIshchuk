@@ -1,4 +1,4 @@
- [![Header2](https://github.com/SerhiiIshchuk/SerhiiIshchuk/blob/main/assets/header.png)](https://www.linkedin.com/in/serhii-isa/)
+ [![Header](https://github.com/SerhiiIshchuk/SerhiiIshchuk/blob/main/assets/header.png)](https://www.linkedin.com/in/serhii-isa/)
 
  ## I'm Software Test Engineer
 
