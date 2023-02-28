@@ -14,4 +14,6 @@
  ![DEVTOOLS](https://img.shields.io/badge/-<DEVTOOLS>-090909?style=for-the-badge&logo=DEVTOOLS) 
  ![TRELLO](https://img.shields.io/badge/-<TRELLO>-090909?style=for-the-badge&logo=TRELLO)
 
- Follow Me
+ ### Follow Me
+[![LINKEDIN](https://img.shields.io/badge/-<LINKEDIN>-090909?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/serhii-isa/)
+![TELEGRAM](https://img.shields.io/badge/-<TELEGRAM>-090909?style=for-the-badge&logo=TELEGRAM)
