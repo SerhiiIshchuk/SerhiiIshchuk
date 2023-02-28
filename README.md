@@ -3,7 +3,7 @@
  ## I'm Software Test Engineer
 
  ### My CV
- [![Link to my CV](?link=http://left&link=http://right)](https://drive.google.com/file/d/1FnD-S8o9QluxMhvWq94I87HUAUJHWXr7/view?usp=share_link)
+ [!(?link=http://left&link=http://right)](https://drive.google.com/file/d/1FnD-S8o9QluxMhvWq94I87HUAUJHWXr7/view?usp=share_link)
 
  ### Languages and Tools
  ![JIRA](https://img.shields.io/badge/-<JIRA>-090909?style=for-the-badge&logo=Jira)
