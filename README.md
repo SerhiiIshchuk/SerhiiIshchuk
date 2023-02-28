@@ -1,8 +1,8 @@
- [![Header](https://github.com/SerhiiIshchuk/SerhiiIshchuk/blob/main/assets/header.png)](https://www.linkedin.com/in/serhii-isa/)
+ [![Header](https://github.com/SerhiiIshchuk/SerhiiIshchuk/blob/main/assets/Header.png)](https://www.linkedin.com/in/serhii-isa/)
 
  ## I'm Software Test Engineer
 
- ## My CV
+ ### My CV
  [![Link to my CV](https://www.linkedin.com/feed/update/urn:li:activity:7026189125380714496/)]
 
  ### Languages and Tools
@@ -20,3 +20,5 @@
 ![TELEGRAM](https://img.shields.io/badge/-<TELEGRAM>-090909?style=for-the-badge&logo=TELEGRAM)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiIshchuk)](https://github.com/SerhiiIshchuk/github-readme-stats)
+
+[![Header](https://github.com/SerhiiIshchuk/SerhiiIshchuk/blob/main/assets/header.png)](https://www.linkedin.com/in/serhii-isa/)
