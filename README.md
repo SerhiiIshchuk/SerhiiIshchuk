@@ -21,4 +21,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiIshchuk)](https://github.com/SerhiiIshchuk/github-readme-stats)
 
-[![Header](https://github.com/SerhiiIshchuk/SerhiiIshchuk/blob/main/assets/header.png)](https://www.linkedin.com/in/serhii-isa/)
