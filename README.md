@@ -17,7 +17,7 @@
 
  ### Follow Me
 [![LINKEDIN](https://img.shields.io/badge/-<LINKEDIN>-090909?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/serhii-isa/)
-![TELEGRAM](https://img.shields.io/badge/-<TELEGRAM>-090909?style=for-the-badge&logo=TELEGRAM)
+[![GMAIL](https://img.shields.io/badge/-<GMAIL>-090909?style=for-the-badge&logo=GMAIL)](89Ishchuk@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiIshchuk)](https://github.com/SerhiiIshchuk/github-readme-stats)
 
