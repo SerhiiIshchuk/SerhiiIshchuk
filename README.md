@@ -2,7 +2,8 @@
 
  ## I'm Software Test Engineer
 
- Latest Youtube videos
+ ## My CV
+ ![Link to my CV](https://www.linkedin.com/feed/update/urn:li:activity:7026189125380714496/)
 
  ### Languages and Tools
  ![JIRA](https://img.shields.io/badge/-<JIRA>-090909?style=for-the-badge&logo=Jira)
