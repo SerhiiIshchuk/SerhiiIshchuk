@@ -2,6 +2,8 @@
 
  ## I'm Software Test Engineer
 
+![](https://komarev.com/ghpvc/?username=SerhiiIshchuk)
+
  ### My CV
  [Link to my CV](https://drive.google.com/file/d/1FnD-S8o9QluxMhvWq94I87HUAUJHWXr7/view?usp=share_link)
 
