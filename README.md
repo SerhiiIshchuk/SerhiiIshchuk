@@ -3,7 +3,7 @@
  ## I'm Software Test Engineer
 
  ### My CV
- [!(?link=http://left&link=http://right)](https://drive.google.com/file/d/1FnD-S8o9QluxMhvWq94I87HUAUJHWXr7/view?usp=share_link)
+ [Link to my CV](https://drive.google.com/file/d/1FnD-S8o9QluxMhvWq94I87HUAUJHWXr7/view?usp=share_link)
 
  ### Languages and Tools
  ![JIRA](https://img.shields.io/badge/-<JIRA>-090909?style=for-the-badge&logo=Jira)
@@ -21,4 +21,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiiIshchuk)](https://github.com/SerhiiIshchuk/github-readme-stats)
 
-?link=http://left&link=http://right
